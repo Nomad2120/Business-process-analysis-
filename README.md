@@ -1,12 +1,12 @@
 # Business Process Analysis - Beeline Installment MVP
 
 ## Project Overview
-This MVP prototype demonstrates the optimized **To-Be** process for online installment purchases on the Beeline Kazakhstan e-commerce platform (shop.beeline.kz). The prototype was developed as part of the Business Process Analysis course at Astana IT University.
+This MVP prototype demonstrates the optimized **To-Be** process for online installment purchases on the Beeline shop.beeline.kz.
 
 ## Team
-- **Diana Kim** (ADA-2403M) - Improvement Plan & Report Lead
-- **Zhanel Rymkhanova** (ADA-2403M) - BPMN Architect
-- **Zhanibek Meiramkan** (ADA-2404M) - Quantitative Analyst & MVP Developer
+- **Diana Kim** (ADA-2403M) 
+- **Zhanel Rymkhanova** (ADA-2403M) 
+- **Zhanibek Meiramkan** (ADA-2404M) 
 
 ## Features
 | Feature | Description |
@@ -39,5 +39,4 @@ This MVP prototype demonstrates the optimized **To-Be** process for online insta
 ## Course Information
 - **Course:** Business Process Analysis
 - **University:** Astana IT University
-- **Trimester:** 2, 2025-2026
 - **Instructor:** Nurkhat Ibadildin
